@@ -1,0 +1,16 @@
+---
+title: "trtr"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 叶兵  南京财经大学  
+
+简历  
+
+教学  
+
+研究  
